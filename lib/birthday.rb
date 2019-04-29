@@ -10,5 +10,6 @@ def happy_birthday(birthday_kids)
       puts "Happy Birthday #{kid}! You are now #{age} years old!"
     else
       nil
+  end
  end
 end
