@@ -12,5 +12,6 @@ def select_winner(passengers)
       puts name
     else
       nil
+   end
   end
 end
